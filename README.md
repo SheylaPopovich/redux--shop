@@ -6,14 +6,13 @@ ReduxShop is an online shopping application using MERN stack, GraphQL, JWT authe
 <br>
 
 ## Live Application 
-<a href="https://thawing-wildwood-31522.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+<a href=" https://tranquil-lowlands-94237.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 
 <br>
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Application Demo](#application-demo)
 - [Tech Used](#tech-used)
 - [Licenese](#license)
 
@@ -33,20 +32,13 @@ ReduxShop is an online shopping application using MERN stack, GraphQL, JWT authe
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SheylaPopovich/book_search_engine
+   git clone https://github.com/SheylaPopovich/redux-shop
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
    <br>
-
-## Application Demo
-
-This [Demo Video]( https://drive.google.com/file/d/19XRk-r7S9xu40VSJYfZrrHsyFM8GeFky/view?usp=sharing) will walk you through the application and its usage. 
-<br>
-<br>
-<br>
 
 ## Technologies Used
 
