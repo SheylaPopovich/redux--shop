@@ -1,7 +1,7 @@
 # Redux Shop 
 
 ## Description
-This application allows a user to to search new books using Goggle Books API and save a list of boks they would like to purchase. The use is able to view list of books but must login/signup to save books.
+ReduxShop is an online shopping application using MERN stack, GraphQL, JWT authentication, Redux and stripe for e-payment. Redux is an npm package which allows for global state variables to be used on the client side. It uses a redux store to collect all the reducers and then dispatches these to any of the components in the React tree on the client side.
 
 <br>
 
